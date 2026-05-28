@@ -1,0 +1,38 @@
+{
+  "building": {
+    "floor_area_m2": 17948.18,
+    "volume_m3": 97074.29,
+    "n_zones": 312,
+    "ua_walls_w_per_k": 22789.19,
+    "ua_glazing_w_per_k": 2748.12,
+    "ua_roof_w_per_k": 1484.36,
+    "ua_external_floor_w_per_k": 82.13,
+    "h_infiltration_w_per_k": 24495.56,
+    "glazing_area_m2": 4000.18,
+    "shgc": 0.248,
+    "shade_factor": 0.72,
+    "lighting_w_per_m2": 10.0,
+    "equipment_w_per_m2": 8.0,
+    "people_density_m2_per_person": 36.3,
+    "heat_setpoint_c": 22.0,
+    "cool_setpoint_c": 24.0,
+    "heat_balance_c": 18.0,
+    "cool_balance_c": 24.0,
+    "thermal_mass_alpha": 0.55
+  },
+  "hvac": {
+    "cooling_capacity_kw": 2697.66,
+    "heating_capacity_kw": 1348.83,
+    "nominal_cooling_cop": 4.5,
+    "nominal_heating_efficiency_or_cop": 0.92,
+    "plr_a": 0.72,
+    "plr_b": 0.55,
+    "plr_c": -0.22,
+    "fan_base_kw": 32.8,
+    "pump_base_kw": 1.2,
+    "auxiliary_base_kw": 0.0,
+    "operation_hours_per_day": 12.0,
+    "grid_emission_factor_kg_per_kwh": 0.536,
+    "electricity_tariff_usd_per_kwh": 0.12
+  }
+}

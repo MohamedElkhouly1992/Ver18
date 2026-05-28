@@ -1,0 +1,3 @@
+name,layers,u_value_w_m2k,visible_transmittance,shgc,direct_solar_transmittance,cost_egp_m2
+Project internal glazing,3.0,2.178,0.738,0.682,0.595,1609.85
+SageGlass Climatop Blue No Tint,3.0,0.687,0.357,0.248,0.192,946.97

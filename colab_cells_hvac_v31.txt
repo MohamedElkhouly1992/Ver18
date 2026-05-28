@@ -1,0 +1,36 @@
+# Cell 1 — install dependencies
+!pip install -q pandas numpy matplotlib openpyxl streamlit
+
+# Cell 2 — upload the bundle or individual files
+from google.colab import files
+uploaded = files.upload()
+
+# Upload these files if you are not uploading the full zip:
+# hvac_v31_engine.py
+# calibrate_hvac_v31_designbuilder.py
+# ALL DATA - Design builder Data.xlsx
+# baseline_no_degradation_daily.csv
+
+# Cell 3 — run calibration
+!python calibrate_hvac_v31_designbuilder.py \
+  --designbuilder_xlsx "ALL DATA - Design builder Data.xlsx" \
+  --weather_or_solver_csv "baseline_no_degradation_daily.csv" \
+  --output_dir hvac_v31_outputs \
+  --train_years 2020,2021,2022,2023 \
+  --validate_years 2024 \
+  --residual_alpha 100 \
+  --max_lag_days 7
+
+# Cell 4 — view metrics
+import pandas as pd
+metrics = pd.read_csv("hvac_v31_outputs/hvac_v31_metrics_before_after.csv")
+holdout = pd.read_csv("hvac_v31_outputs/hvac_v31_metrics_holdout.csv")
+display(metrics)
+display(holdout)
+
+# Cell 5 — download outputs
+from google.colab import files
+files.download("hvac_v31_outputs/hvac_v31_daily_outputs.csv")
+files.download("hvac_v31_outputs/hvac_v31_calibration_coefficients.json")
+files.download("hvac_v31_outputs/hvac_v31_metrics_before_after.csv")
+files.download("hvac_v31_outputs/hvac_v31_validation_report.md")

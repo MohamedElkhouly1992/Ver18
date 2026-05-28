@@ -1,0 +1,313 @@
+zone_name,activity,floor_area_m2,volume_m3,heated,heating_setpoint_c,cooled,cooling_setpoint_c
+Ground Floor - Zone 1,Generic Office Area,272.101,1524.629,True,22.0,True,24.0
+Ground Floor - Zone 3,Generic Office Area,222.521,1312.871,True,22.0,True,24.0
+Ground Floor - Zone 4,Generic Office Area,16.651,98.241,True,22.0,True,24.0
+Ground Floor - Zone 5,Generic Office Area,20.995,63.994,True,22.0,True,24.0
+Ground Floor - Zone 7,Generic Office Area,7.048,41.585,True,22.0,True,24.0
+Ground Floor - Zone 6,Generic Office Area,11.244,56.594,True,22.0,True,24.0
+Ground Floor - Zone 2,Generic Office Area,122.974,725.549,True,22.0,True,24.0
+Ground Floor - Zone 8,Generic Office Area,9.772,0.595,True,22.0,True,24.0
+Ground Floor - Zone 9,Generic Office Area,16.708,98.579,True,22.0,True,24.0
+Ground Floor - Zone 12,Generic Office Area,11.932,54.302,True,22.0,True,24.0
+Ground Floor - Zone 13,Generic Office Area,13.717,63.546,True,22.0,True,24.0
+Ground Floor - Zone 14,Generic Office Area,29.975,176.852,True,22.0,True,24.0
+Ground Floor - Zone 16,Generic Office Area,4.42,26.08,True,22.0,True,24.0
+Ground Floor - Zone 10,Generic Office Area,16.918,88.318,True,22.0,True,24.0
+Ground Floor - Zone 19,Generic Office Area,7.246,42.748,True,22.0,True,24.0
+Ground Floor - Zone 15,Generic Office Area,11.836,69.831,True,22.0,True,24.0
+Ground Floor - Zone 18,Generic Office Area,5.267,31.075,True,22.0,True,24.0
+Ground Floor - Zone 17,Generic Office Area,4.203,24.798,True,22.0,True,24.0
+Ground Floor - Zone 11,Generic Office Area,152.999,902.695,True,22.0,True,24.0
+Ground Floor - Zone 25,Generic Office Area,13.223,78.013,True,22.0,True,24.0
+Ground Floor - Zone 31,Generic Office Area,23.536,138.862,True,22.0,True,24.0
+Ground Floor - Zone 32,Generic Office Area,12.236,72.19,True,22.0,True,24.0
+Ground Floor - Zone 33,Generic Office Area,17.361,102.432,True,22.0,True,24.0
+Ground Floor - Zone 30,Generic Office Area,5.128,0.01,True,22.0,True,24.0
+Ground Floor - Zone 40,Generic Office Area,14.659,78.781,True,22.0,True,24.0
+Ground Floor - Zone 48,Generic Office Area,8.326,49.124,True,22.0,True,24.0
+Ground Floor - Zone 39,Generic Office Area,4.355,25.695,True,22.0,True,24.0
+Ground Floor - Zone 41,Generic Office Area,4.378,25.827,True,22.0,True,24.0
+Ground Floor - Zone 42,Generic Office Area,7.35,43.362,True,22.0,True,24.0
+Ground Floor - Zone 43,Generic Office Area,9.017,53.202,True,22.0,True,24.0
+Ground Floor - Zone 45,Generic Office Area,13.007,62.137,True,22.0,True,24.0
+Ground Floor - Zone 44,Generic Office Area,26.866,137.036,True,22.0,True,24.0
+Ground Floor - Zone 46,Generic Office Area,13.451,77.197,True,22.0,True,24.0
+Ground Floor - Zone 47,Generic Office Area,7.537,44.466,True,22.0,True,24.0
+Ground Floor - Zone 63,Generic Office Area,17.91,105.671,True,22.0,True,24.0
+Ground Floor - Zone 66,Generic Office Area,45.517,268.549,True,22.0,True,24.0
+Ground Floor - Zone 76,Generic Office Area,14.4,60.548,True,22.0,True,24.0
+Ground Floor - Zone 75,Generic Office Area,9.395,55.432,True,22.0,True,24.0
+Ground Floor - Zone 78,Generic Office Area,4.409,26.01,True,22.0,True,24.0
+Ground Floor - Zone 77,Generic Office Area,7.41,43.72,True,22.0,True,24.0
+Ground Floor - Zone 80,Generic Office Area,7.38,43.541,True,22.0,True,24.0
+Ground Floor - Zone 81,Generic Office Area,4.884,28.816,True,22.0,True,24.0
+Ground Floor - Zone 82,Generic Office Area,4.158,24.531,True,22.0,True,24.0
+Ground Floor - Zone 61,Generic Office Area,62.559,369.099,True,22.0,True,24.0
+Ground Floor - Zone 69,Generic Office Area,112.314,662.655,True,22.0,True,24.0
+Ground Floor - Zone 68,Generic Office Area,61.032,337.77,True,22.0,True,24.0
+Ground Floor - Zone 67,Generic Office Area,77.915,434.075,True,22.0,True,24.0
+Ground Floor - Zone 71,Generic Office Area,54.383,320.857,True,22.0,True,24.0
+Ground Floor - Zone 72,Generic Office Area,33.594,198.207,True,22.0,True,24.0
+Ground Floor - Zone 60,Generic Office Area,49.71,293.288,True,22.0,True,24.0
+Ground Floor - Zone 79,Generic Office Area,187.724,1093.381,True,22.0,True,24.0
+Ground Floor - Zone 73,Generic Office Area,31.891,188.155,True,22.0,True,24.0
+Ground Floor - Zone 74,Generic Office Area,29.74,175.468,True,22.0,True,24.0
+Ground Floor - Zone 62,Generic Office Area,72.49,427.688,True,22.0,True,24.0
+Ground Floor - Zone 70,Generic Office Area,41.064,222.54,True,22.0,True,24.0
+Ground Floor - Zone 54,Generic Office Area,7.345,43.333,True,22.0,True,24.0
+Ground Floor - Zone 56,Generic Office Area,7.888,46.541,True,22.0,True,24.0
+Ground Floor - Zone 21,Generic Office Area,77.273,455.533,True,22.0,True,24.0
+Ground Floor - Zone 52,Generic Office Area,3.941,23.252,True,22.0,True,24.0
+Ground Floor - Zone 53,Generic Office Area,9.537,56.269,True,22.0,True,24.0
+Ground Floor - Zone 55,Generic Office Area,4.517,26.649,True,22.0,True,24.0
+Ground Floor - Zone 50,Generic Office Area,15.796,93.196,True,22.0,True,24.0
+Ground Floor - Zone 49,Generic Office Area,32.408,191.205,True,22.0,True,24.0
+Ground Floor - Zone 88,Generic Office Area,162.527,958.909,True,22.0,True,24.0
+Ground Floor - Zone 57,Generic Office Area,24.744,145.991,True,22.0,True,24.0
+Ground Floor - Zone 51,Generic Office Area,13.804,64.294,True,22.0,True,24.0
+Ground Floor - Zone 85,Generic Office Area,12.378,56.635,True,22.0,True,24.0
+Ground Floor - Zone 84,Generic Office Area,64.615,381.225,True,22.0,True,24.0
+Ground Floor - Zone 86,Generic Office Area,68.667,405.137,True,22.0,True,24.0
+Ground Floor - Zone 26,Generic Office Area,13.663,80.614,True,22.0,True,24.0
+Ground Floor - Zone 87,Generic Office Area,228.485,1348.06,True,22.0,True,24.0
+Ground Floor - Zone 89,Generic Office Area,197.3,1164.072,True,22.0,True,24.0
+Ground Floor - Zone 22,Generic Office Area,22.684,133.835,True,22.0,True,24.0
+Ground Floor - Zone 91,Generic Office Area,599.354,3452.321,True,22.0,True,24.0
+Ground Floor - Zone 92,Generic Office Area,42.269,249.389,True,22.0,True,24.0
+Ground Floor - Zone 64,Generic Office Area,11.98,59.921,True,22.0,True,24.0
+Ground Floor - Zone 65,Generic Office Area,8.997,53.08,True,22.0,True,24.0
+Ground Floor - Zone 93,Generic Office Area,12.962,59.636,True,22.0,True,24.0
+Ground Floor - Zone 94,Generic Office Area,12.145,55.365,True,22.0,True,24.0
+Ground Floor - Zone 96,Generic Office Area,7.383,43.562,True,22.0,True,24.0
+Ground Floor - Zone 90,Generic Office Area,3.586,21.157,True,22.0,True,24.0
+Ground Floor - Zone 59,Generic Office Area,23.011,135.766,True,22.0,True,24.0
+Ground Floor - Zone 28,Generic Office Area,84.493,498.508,True,22.0,True,24.0
+Ground Floor - Zone 20,Generic Office Area,21.103,124.509,True,22.0,True,24.0
+Ground Floor - Zone 99,Generic Office Area,4.577,27.004,True,22.0,True,24.0
+Ground Floor - Zone 97,Generic Office Area,6.727,39.69,True,22.0,True,24.0
+Ground Floor - Zone 58,Generic Office Area,814.545,4805.812,True,22.0,True,24.0
+Ground Floor - Zone 83,Generic Office Area,1049.3,6006.619,True,22.0,True,24.0
+Ground Floor - Zone 35,Generic Office Area,14.251,84.08,True,22.0,True,24.0
+Ground Floor - Zone 38,Generic Office Area,54.887,323.831,True,22.0,True,24.0
+Ground Floor - Zone 37,Generic Office Area,32.739,193.162,True,22.0,True,24.0
+Ground Floor - Zone 36,Generic Office Area,4.021,23.722,True,22.0,True,24.0
+Ground Floor - Zone 23,Generic Office Area,38.822,229.049,True,22.0,True,24.0
+Ground Floor - Zone 29,Generic Office Area,97.122,573.02,True,22.0,True,24.0
+Ground Floor - Zone 24,Generic Office Area,75.717,413.717,True,22.0,True,24.0
+Ground Floor - Zone 98,Generic Office Area,3.43,20.237,True,22.0,True,24.0
+Ground Floor - Zone 95,Generic Office Area,4.721,27.852,True,22.0,True,24.0
+First floor - Zone 2,Generic Office Area,45.201,241.824,True,22.0,True,24.0
+First floor - Zone 5,Generic Office Area,28.785,154.001,True,22.0,True,24.0
+First floor - Zone 4,Generic Office Area,27.43,146.75,True,22.0,True,24.0
+First floor - Zone 3,Generic Office Area,46.365,248.053,True,22.0,True,24.0
+First floor - Zone 15,Generic Office Area,29.097,131.204,True,22.0,True,24.0
+First floor - Zone 20,Generic Office Area,7.6,40.659,True,22.0,True,24.0
+First floor - Zone 22,Generic Office Area,4.066,21.753,True,22.0,True,24.0
+First floor - Zone 18,Generic Office Area,7.877,42.14,True,22.0,True,24.0
+First floor - Zone 16,Generic Office Area,20.395,97.736,True,22.0,True,24.0
+First floor - Zone 26,Generic Office Area,238.944,1278.348,True,22.0,True,24.0
+First floor - Zone 14,Generic Office Area,21.328,114.105,True,22.0,True,24.0
+First floor - Zone 92,Generic Office Area,567.499,3036.12,True,22.0,True,24.0
+First floor - Zone 21,Generic Office Area,13.731,73.461,True,22.0,True,24.0
+First floor - Zone 19,Generic Office Area,14.061,59.595,True,22.0,True,24.0
+First floor - Zone 17,Generic Office Area,12.534,52.232,True,22.0,True,24.0
+First floor - Zone 13,Generic Office Area,37.128,182.035,True,22.0,True,24.0
+First floor - Zone 93,Generic Office Area,173.737,929.495,True,22.0,True,24.0
+First floor - Zone 89,Generic Office Area,42.057,225.005,True,22.0,True,24.0
+First floor - Zone 37,Generic Office Area,300.477,1607.551,True,22.0,True,24.0
+First floor - Zone 12,Generic Office Area,67.875,363.131,True,22.0,True,24.0
+First floor - Zone 25,Generic Office Area,10.551,56.449,True,22.0,True,24.0
+First floor - Zone 80,Generic Office Area,47.156,252.283,True,22.0,True,24.0
+First floor - Zone 81,Generic Office Area,29.906,159.996,True,22.0,True,24.0
+First floor - Zone 82,Generic Office Area,373.988,2000.836,True,22.0,True,24.0
+First floor - Zone 73,Generic Office Area,117.922,630.884,True,22.0,True,24.0
+First floor - Zone 11,Generic Office Area,30.047,160.751,True,22.0,True,24.0
+First floor - Zone 23,Generic Office Area,14.8,79.181,True,22.0,True,24.0
+First floor - Zone 24,Generic Office Area,16.288,87.142,True,22.0,True,24.0
+First floor - Zone 74,Generic Office Area,66.134,353.816,True,22.0,True,24.0
+First floor - Zone 79,Generic Office Area,12.622,52.668,True,22.0,True,24.0
+First floor - Zone 75,Generic Office Area,14.107,60.051,True,22.0,True,24.0
+First floor - Zone 70,Generic Office Area,28.545,129.451,True,22.0,True,24.0
+First floor - Zone 64,Generic Office Area,108.131,578.502,True,22.0,True,24.0
+First floor - Zone 69,Generic Office Area,68.486,366.4,True,22.0,True,24.0
+First floor - Zone 10,Generic Office Area,6.744,36.082,True,22.0,True,24.0
+First floor - Zone 76,Generic Office Area,7.888,42.203,True,22.0,True,24.0
+First floor - Zone 78,Generic Office Area,4.47,23.913,True,22.0,True,24.0
+First floor - Zone 71,Generic Office Area,7.286,38.981,True,22.0,True,24.0
+First floor - Zone 9,Generic Office Area,10.26,47.848,True,22.0,True,24.0
+First floor - Zone 77,Generic Office Area,13.623,72.882,True,22.0,True,24.0
+First floor - Zone 95,Generic Office Area,604.342,3233.231,True,22.0,True,24.0
+First floor - Zone 8,Generic Office Area,78.065,417.648,True,22.0,True,24.0
+First floor - Zone 87,Generic Office Area,7.389,39.529,True,22.0,True,24.0
+First floor - Zone 85,Generic Office Area,12.029,64.353,True,22.0,True,24.0
+First floor - Zone 91,Generic Office Area,159.853,855.213,True,22.0,True,24.0
+First floor - Zone 90,Generic Office Area,73.777,256.487,True,22.0,True,24.0
+First floor - Zone 83,Generic Office Area,323.047,1728.303,True,22.0,True,24.0
+First floor - Zone 68,Generic Office Area,53.74,287.51,True,22.0,True,24.0
+First floor - Zone 1,Generic Office Area,107.926,547.734,True,22.0,True,24.0
+First floor - Zone 35,Generic Office Area,67.369,360.425,True,22.0,True,24.0
+First floor - Zone 30,Generic Office Area,75.487,403.857,True,22.0,True,24.0
+First floor - Zone 36,Generic Office Area,48.754,260.831,True,22.0,True,24.0
+First floor - Zone 41,Generic Office Area,16.396,87.718,True,22.0,True,24.0
+First floor - Zone 45,Generic Office Area,7.239,3.355,True,22.0,True,24.0
+First floor - Zone 46,Generic Office Area,33.326,163.056,True,22.0,True,24.0
+First floor - Zone 47,Generic Office Area,28.002,149.81,True,22.0,True,24.0
+First floor - Zone 50,Generic Office Area,33.123,177.206,True,22.0,True,24.0
+First floor - Zone 67,Generic Office Area,52.036,278.39,True,22.0,True,24.0
+First floor - Zone 6,Generic Office Area,13.58,21.117,True,22.0,True,24.0
+First floor - Zone 32,Generic Office Area,6.131,32.802,True,22.0,True,24.0
+First floor - Zone 34,Generic Office Area,4.831,25.846,True,22.0,True,24.0
+First floor - Zone 28,Generic Office Area,6.131,32.802,True,22.0,True,24.0
+First floor - Zone 49,Generic Office Area,34.509,184.621,True,22.0,True,24.0
+First floor - Zone 66,Generic Office Area,31.853,170.412,True,22.0,True,24.0
+First floor - Zone 7,Generic Office Area,110.231,548.134,True,22.0,True,24.0
+First floor - Zone 33,Generic Office Area,9.483,50.735,True,22.0,True,24.0
+First floor - Zone 40,Generic Office Area,24.62,131.715,True,22.0,True,24.0
+First floor - Zone 27,Generic Office Area,3.535,18.91,True,22.0,True,24.0
+First floor - Zone 31,Generic Office Area,12.289,50.525,True,22.0,True,24.0
+First floor - Zone 29,Generic Office Area,13.834,57.627,True,22.0,True,24.0
+First floor - Zone 65,Generic Office Area,7.359,39.372,True,22.0,True,24.0
+First floor - Zone 42,Generic Office Area,11.667,62.418,True,22.0,True,24.0
+First floor - Zone 44,Generic Office Area,39.369,210.623,True,22.0,True,24.0
+First floor - Zone 62,Generic Office Area,10.531,56.34,True,22.0,True,24.0
+First floor - Zone 38,Generic Office Area,52.601,281.413,True,22.0,True,24.0
+First floor - Zone 43,Generic Office Area,10.156,54.333,True,22.0,True,24.0
+First floor - Zone 39,Generic Office Area,7.854,42.017,True,22.0,True,24.0
+First floor - Zone 88,Generic Office Area,22.807,122.019,True,22.0,True,24.0
+First floor - Zone 86,Generic Office Area,4.379,23.427,True,22.0,True,24.0
+First floor - Zone 48,Generic Office Area,14.021,24.595,True,22.0,True,24.0
+First floor - Zone 94,Generic Office Area,85.615,428.766,True,22.0,True,24.0
+First floor - Zone 51,Generic Office Area,46.013,246.171,True,22.0,True,24.0
+First floor - Zone 52,Generic Office Area,153.909,823.411,True,22.0,True,24.0
+First floor - Zone 63,Generic Office Area,77.138,412.688,True,22.0,True,24.0
+First floor - Zone 54,Generic Office Area,238.838,1277.78,True,22.0,True,24.0
+First floor - Zone 57,Generic Office Area,3.624,19.387,True,22.0,True,24.0
+First floor - Zone 59,Generic Office Area,5.491,29.378,True,22.0,True,24.0
+First floor - Zone 60,Generic Office Area,3.311,17.712,True,22.0,True,24.0
+First floor - Zone 56,Generic Office Area,6.941,37.134,True,22.0,True,24.0
+First floor - Zone 55,Generic Office Area,4.879,26.101,True,22.0,True,24.0
+First floor - Zone 58,Generic Office Area,6.458,34.552,True,22.0,True,24.0
+First floor - Zone 61,Generic Office Area,11.826,49.347,True,22.0,True,24.0
+First floor - Zone 53,Generic Office Area,13.096,55.345,True,22.0,True,24.0
+First floor - Zone 72,Generic Office Area,9.835,52.62,True,22.0,True,24.0
+First floor - Zone 84,Generic Office Area,8.205,43.896,True,22.0,True,24.0
+2nd Floor plan - Zone 15,Generic Office Area,49.095,262.658,True,22.0,True,24.0
+2nd Floor plan - Zone 69,Generic Office Area,566.712,3031.909,True,22.0,True,24.0
+2nd Floor plan - Zone 21,Generic Office Area,12.41,66.395,True,22.0,True,24.0
+2nd Floor plan - Zone 25,Generic Office Area,5.213,27.889,True,22.0,True,24.0
+2nd Floor plan - Zone 20,Generic Office Area,12.091,64.687,True,22.0,True,24.0
+2nd Floor plan - Zone 23,Generic Office Area,233.047,1246.801,True,22.0,True,24.0
+2nd Floor plan - Zone 1,Generic Office Area,10.608,4.152,True,22.0,True,24.0
+2nd Floor plan - Zone 19,Generic Office Area,14.061,59.594,True,22.0,True,24.0
+2nd Floor plan - Zone 17,Generic Office Area,12.534,52.231,True,22.0,True,24.0
+2nd Floor plan - Zone 18,Generic Office Area,12.748,59.018,True,22.0,True,24.0
+2nd Floor plan - Zone 12,Generic Office Area,6.786,36.305,True,22.0,True,24.0
+2nd Floor plan - Zone 9,Generic Office Area,31.758,169.905,True,22.0,True,24.0
+2nd Floor plan - Zone 68,Generic Office Area,63.561,340.05,True,22.0,True,24.0
+2nd Floor plan - Zone 58,Generic Office Area,305.443,1634.12,True,22.0,True,24.0
+2nd Floor plan - Zone 6,Generic Office Area,70.488,377.109,True,22.0,True,24.0
+2nd Floor plan - Zone 24,Generic Office Area,15.74,84.208,True,22.0,True,24.0
+2nd Floor plan - Zone 67,Generic Office Area,60.591,324.159,True,22.0,True,24.0
+2nd Floor plan - Zone 73,Generic Office Area,57.256,306.318,True,22.0,True,24.0
+2nd Floor plan - Zone 74,Generic Office Area,33.21,177.676,True,22.0,True,24.0
+2nd Floor plan - Zone 8,Generic Office Area,8.953,39.615,True,22.0,True,24.0
+2nd Floor plan - Zone 27,Generic Office Area,38.517,206.066,True,22.0,True,24.0
+2nd Floor plan - Zone 72,Generic Office Area,25.08,134.18,True,22.0,True,24.0
+2nd Floor plan - Zone 71,Generic Office Area,21.041,112.571,True,22.0,True,24.0
+2nd Floor plan - Zone 75,Generic Office Area,25.106,134.318,True,22.0,True,24.0
+2nd Floor plan - Zone 76,Generic Office Area,43.913,234.932,True,22.0,True,24.0
+2nd Floor plan - Zone 77,Generic Office Area,21.226,113.558,True,22.0,True,24.0
+2nd Floor plan - Zone 80,Generic Office Area,25.378,117.617,True,22.0,True,24.0
+2nd Floor plan - Zone 81,Generic Office Area,4.605,24.637,True,22.0,True,24.0
+2nd Floor plan - Zone 78,Generic Office Area,27.996,129.49,True,22.0,True,24.0
+2nd Floor plan - Zone 79,Generic Office Area,7.219,10.558,True,22.0,True,24.0
+2nd Floor plan - Zone 29,Generic Office Area,82.079,439.124,True,22.0,True,24.0
+2nd Floor plan - Zone 30,Generic Office Area,268.793,1438.044,True,22.0,True,24.0
+2nd Floor plan - Zone 7,Generic Office Area,10.745,50.329,True,22.0,True,24.0
+2nd Floor plan - Zone 66,Generic Office Area,277.081,1482.382,True,22.0,True,24.0
+2nd Floor plan - Zone 28,Generic Office Area,4.993,26.71,True,22.0,True,24.0
+2nd Floor plan - Zone 89,Generic Office Area,607.979,3208.994,True,22.0,True,24.0
+2nd Floor plan - Zone 4,Generic Office Area,77.147,412.734,True,22.0,True,24.0
+2nd Floor plan - Zone 61,Generic Office Area,20.869,111.649,True,22.0,True,24.0
+2nd Floor plan - Zone 62,Generic Office Area,33.385,178.61,True,22.0,True,24.0
+2nd Floor plan - Zone 46,Generic Office Area,21.003,112.364,True,22.0,True,24.0
+2nd Floor plan - Zone 85,Generic Office Area,199.088,1006.94,True,22.0,True,24.0
+2nd Floor plan - Zone 84,Generic Office Area,60.789,325.219,True,22.0,True,24.0
+2nd Floor plan - Zone 2,Generic Office Area,107.926,547.734,True,22.0,True,24.0
+2nd Floor plan - Zone 53,Generic Office Area,93.629,500.917,True,22.0,True,24.0
+2nd Floor plan - Zone 48,Generic Office Area,50.742,271.468,True,22.0,True,24.0
+2nd Floor plan - Zone 49,Generic Office Area,53.216,284.706,True,22.0,True,24.0
+2nd Floor plan - Zone 52,Generic Office Area,16.068,85.966,True,22.0,True,24.0
+2nd Floor plan - Zone 65,Generic Office Area,10.066,19.521,True,22.0,True,24.0
+2nd Floor plan - Zone 64,Generic Office Area,30.177,161.445,True,22.0,True,24.0
+2nd Floor plan - Zone 50,Generic Office Area,55.049,294.511,True,22.0,True,24.0
+2nd Floor plan - Zone 86,Generic Office Area,12.824,68.608,True,22.0,True,24.0
+2nd Floor plan - Zone 57,Generic Office Area,8.665,0.01,True,22.0,True,24.0
+2nd Floor plan - Zone 56,Generic Office Area,23.873,106.955,True,22.0,True,24.0
+2nd Floor plan - Zone 55,Generic Office Area,11.108,59.428,True,22.0,True,24.0
+2nd Floor plan - Zone 54,Generic Office Area,24.953,113.827,True,22.0,True,24.0
+2nd Floor plan - Zone 45,Generic Office Area,47.124,252.112,True,22.0,True,24.0
+2nd Floor plan - Zone 87,Generic Office Area,33.517,179.317,True,22.0,True,24.0
+2nd Floor plan - Zone 88,Generic Office Area,19.45,104.059,True,22.0,True,24.0
+2nd Floor plan - Zone 31,Generic Office Area,6.668,9.885,True,22.0,True,24.0
+2nd Floor plan - Zone 3,Generic Office Area,110.231,548.135,True,22.0,True,24.0
+2nd Floor plan - Zone 60,Generic Office Area,12.302,65.815,True,22.0,True,24.0
+2nd Floor plan - Zone 5,Generic Office Area,9.164,0.01,True,22.0,True,24.0
+2nd Floor plan - Zone 26,Generic Office Area,14.813,79.251,True,22.0,True,24.0
+2nd Floor plan - Zone 10,Generic Office Area,13.007,69.589,True,22.0,True,24.0
+2nd Floor plan - Zone 11,Generic Office Area,46.763,250.181,True,22.0,True,24.0
+2nd Floor plan - Zone 13,Generic Office Area,29.936,160.156,True,22.0,True,24.0
+2nd Floor plan - Zone 16,Generic Office Area,19.495,104.297,True,22.0,True,24.0
+2nd Floor plan - Zone 22,Generic Office Area,4.092,21.893,True,22.0,True,24.0
+2nd Floor plan - Zone 14,Generic Office Area,8.366,44.757,True,22.0,True,24.0
+2nd Floor plan - Zone 32,Generic Office Area,9.689,51.833,True,22.0,True,24.0
+2nd Floor plan - Zone 33,Generic Office Area,7.359,39.371,True,22.0,True,24.0
+2nd Floor plan - Zone 34,Generic Office Area,123.259,659.433,True,22.0,True,24.0
+2nd Floor plan - Zone 35,Generic Office Area,318.069,1701.67,True,22.0,True,24.0
+2nd Floor plan - Zone 41,Generic Office Area,24.855,111.951,True,22.0,True,24.0
+2nd Floor plan - Zone 36,Generic Office Area,151.391,809.94,True,22.0,True,24.0
+2nd Floor plan - Zone 39,Generic Office Area,26.255,122.779,True,22.0,True,24.0
+2nd Floor plan - Zone 40,Generic Office Area,4.78,25.575,True,22.0,True,24.0
+2nd Floor plan - Zone 38,Generic Office Area,4.641,24.827,True,22.0,True,24.0
+2nd Floor plan - Zone 44,Generic Office Area,23.028,123.2,True,22.0,True,24.0
+2nd Floor plan - Zone 42,Generic Office Area,22.002,117.712,True,22.0,True,24.0
+2nd Floor plan - Zone 37,Generic Office Area,4.974,26.612,True,22.0,True,24.0
+2nd Floor plan - Zone 82,Generic Office Area,42.511,209.554,True,22.0,True,24.0
+2nd Floor plan - Zone 63,Generic Office Area,99.414,531.863,True,22.0,True,24.0
+2nd Floor plan - Zone 83,Generic Office Area,47.117,252.075,True,22.0,True,24.0
+2nd Floor plan - Zone 43,Generic Office Area,40.692,217.701,True,22.0,True,24.0
+2nd Floor plan - Zone 59,Generic Office Area,13.701,73.298,True,22.0,True,24.0
+2nd Floor plan - Zone 47,Generic Office Area,14.115,75.514,True,22.0,True,24.0
+2nd Floor plan - Zone 51,Generic Office Area,13.854,74.121,True,22.0,True,24.0
+3rd floor plan - Zone 25,Generic Office Area,223.274,1194.516,True,22.0,True,24.0
+3rd floor plan - Zone 4,Generic Office Area,60.107,321.571,True,22.0,True,24.0
+3rd floor plan - Zone 1,Generic Office Area,117.667,629.519,True,22.0,True,24.0
+3rd floor plan - Zone 9,Generic Office Area,11.165,59.731,True,22.0,True,24.0
+3rd floor plan - Zone 2,Generic Office Area,26.976,144.323,True,22.0,True,24.0
+3rd floor plan - Zone 10,Generic Office Area,5.115,27.365,True,22.0,True,24.0
+3rd floor plan - Zone 8,Generic Office Area,3.527,18.868,True,22.0,True,24.0
+3rd floor plan - Zone 11,Generic Office Area,3.364,17.995,True,22.0,True,24.0
+3rd floor plan - Zone 5,Generic Office Area,33.651,180.031,True,22.0,True,24.0
+3rd floor plan - Zone 6,Generic Office Area,26.55,142.04,True,22.0,True,24.0
+3rd floor plan - Zone 3,Generic Office Area,26.167,139.994,True,22.0,True,24.0
+3rd floor plan - Zone 18,Generic Office Area,38.093,203.795,True,22.0,True,24.0
+3rd floor plan - Zone 7,Generic Office Area,2.358,12.614,True,22.0,True,24.0
+3rd floor plan - Zone 13,Generic Office Area,10.897,58.301,True,22.0,True,24.0
+3rd floor plan - Zone 12,Generic Office Area,49.866,266.782,True,22.0,True,24.0
+3rd floor plan - Zone 14,Generic Office Area,35.429,189.544,True,22.0,True,24.0
+3rd floor plan - Zone 17,Generic Office Area,5.384,28.806,True,22.0,True,24.0
+3rd floor plan - Zone 15,Generic Office Area,5.384,28.806,True,22.0,True,24.0
+3rd floor plan - Zone 22,Generic Office Area,5.764,30.836,True,22.0,True,24.0
+3rd floor plan - Zone 20,Generic Office Area,12.356,66.105,True,22.0,True,24.0
+3rd floor plan - Zone 24,Generic Office Area,21.884,117.079,True,22.0,True,24.0
+3rd floor plan - Zone 16,Generic Office Area,13.314,71.231,True,22.0,True,24.0
+3rd floor plan - Zone 19,Generic Office Area,12.487,66.806,True,22.0,True,24.0
+3rd floor plan - Zone 21,Generic Office Area,9.592,51.315,True,22.0,True,24.0
+3rd floor plan - Zone 23,Generic Office Area,18.72,100.15,True,22.0,True,24.0
+Block 2 - Zone 1,Generic Office Area,33.155,138.494,True,22.0,True,24.0
+Block 3 - Zone 1,Generic Office Area,38.252,164.377,True,22.0,True,24.0
+Block 4 - Zone 1,Generic Office Area,29.464,83.14,True,22.0,True,24.0
+Block 5 - Zone 1,Generic Office Area,11.104,31.334,True,22.0,True,24.0
+Block 6 - Zone 1,Generic Office Area,11.682,33.879,True,22.0,True,24.0
+Block 7 - Zone 1,Generic Office Area,12.663,35.732,True,22.0,True,24.0
+Block 8 - Zone 1,Generic Office Area,12.957,36.561,True,22.0,True,24.0

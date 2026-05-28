@@ -1,0 +1,139 @@
+{
+  "building": {
+    "n_zones": 312,
+    "floor_area_m2": 17948.18,
+    "volume_m3": 97074.29,
+    "external_area_m2": 30155.8,
+    "area_weighted_u_value_w_m2k": 1.137,
+    "heated_zone_fraction": 1.0,
+    "cooled_zone_fraction": 1.0,
+    "heat_setpoint_c": 22.0,
+    "cool_setpoint_c": 24.0,
+    "activity_area_m2": {
+      "Generic Office Area": 17948.176
+    }
+  },
+  "envelope": {
+    "external_by_element": {
+      "Floor": {
+        "area_m2": 333.505,
+        "ua_w_per_k": 82.1291,
+        "count": 62
+      },
+      "Glazing": {
+        "area_m2": 4000.175,
+        "ua_w_per_k": 2748.1199,
+        "count": 595
+      },
+      "Infiltration": {
+        "area_m2": 0.0,
+        "ua_w_per_k": 24495.564,
+        "count": 312
+      },
+      "Roof": {
+        "area_m2": 6654.914,
+        "ua_w_per_k": 1484.3643,
+        "count": 124
+      },
+      "Wall": {
+        "area_m2": 12845.576000000001,
+        "ua_w_per_k": 22789.1937,
+        "count": 783
+      }
+    },
+    "ua_walls_w_per_k": 22789.1937,
+    "ua_glazing_w_per_k": 2748.1199,
+    "ua_roof_w_per_k": 1484.3643,
+    "ua_external_floor_w_per_k": 82.1291,
+    "h_infiltration_w_per_k": 24495.564,
+    "ua_total_external_plus_infiltration_w_per_k": 51599.371
+  },
+  "glazing": {
+    "type": "SageGlass Climatop Blue No Tint",
+    "u_value_w_m2k": 0.687,
+    "shgc": 0.248,
+    "visible_transmittance": 0.357,
+    "area_by_orientation_m2": {
+      "N": 1090.114,
+      "E": 935.926,
+      "S": 1093.946,
+      "W": 880.189
+    },
+    "orientation_fraction": {
+      "N": 0.2725165773997388,
+      "E": 0.2339712637572106,
+      "S": 0.2734745354890723,
+      "W": 0.22003762335397825
+    }
+  },
+  "schedule_proxy": {
+    "source": "proxy_from_activity_type_not_exact_hourly_schedule",
+    "activity_type": "Generic Office Area",
+    "note": "The building input CSV contains activity labels and setpoints, not the full DesignBuilder hourly schedules. Replace these defaults with exported DB schedules if available.",
+    "weekday_occupied_factor": 1.0,
+    "weekend_factor": 0.22,
+    "winter_break_factor": 0.75,
+    "summer_reduced_factor": 0.65,
+    "winter_break_doy_ranges": [
+      [
+        1,
+        20
+      ],
+      [
+        350,
+        365
+      ]
+    ],
+    "summer_reduced_doy_range": [
+      170,
+      250
+    ],
+    "operation_hours_per_day": 12.0
+  },
+  "seasonal": {
+    "source": "computed_from_designbuilder_daily_outputs",
+    "monthly_designbuilder_mwh": {
+      "1": 680.93209461,
+      "2": 681.337604381,
+      "3": 641.199872696,
+      "4": 527.53546191,
+      "5": 617.4347450409999,
+      "6": 694.0745686399999,
+      "7": 811.5732985000001,
+      "8": 906.81935384,
+      "9": 761.93931906,
+      "10": 619.191737542,
+      "11": 528.036993695,
+      "12": 621.542063006
+    },
+    "monthly_target_profile_factor": {
+      "1": 0.9908311482564153,
+      "2": 1.097644910637341,
+      "3": 0.9330163920223519,
+      "4": 0.7932095686603778,
+      "5": 0.8984355154426533,
+      "6": 1.043620057722296,
+      "7": 1.1809284796710362,
+      "8": 1.319521973980447,
+      "9": 1.1456624288891395,
+      "10": 0.9009921329248135,
+      "11": 0.793963678743156,
+      "12": 0.904412115176649
+    },
+    "monthly_correction_factor_for_current_physics": {
+      "1": 0.47308301335829694,
+      "2": 1.004199115750453,
+      "3": 2.566186753058455,
+      "4": 1.8869848488845007,
+      "5": 1.5464186105181439,
+      "6": 1.3542888419632138,
+      "7": 1.6067022556075021,
+      "8": 2.427263124253693,
+      "9": 3.0,
+      "10": 1.090509572045814,
+      "11": 0.4059632963533312,
+      "12": 0.36378714472816787
+    },
+    "note": "Target profile is reference monthly mean daily energy divided by annual mean daily energy. Correction factor maps current physics monthly total to DesignBuilder monthly total and should be re-fitted if the physics solver changes."
+  }
+}
